@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="rulnovekom";
+var disqus_shortname="rulnove";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
